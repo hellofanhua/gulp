@@ -1,0 +1,35 @@
+{
+  "name": "gulps",
+  "version": "1.0.0",
+  "description": "gulp test",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-jshint": "^2.0.1",
+    "gulp-less": "^3.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify": "^0.0.14",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^7.1.2",
+    "gulp-rev-collector": "^1.0.5",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.3",
+    "tiny-lr": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp style  html js default"
+  },
+  "repository": {
+    "type": "git",
+    "url": "wang1505519757"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "berg",
+  "license": "ISC"
+}
